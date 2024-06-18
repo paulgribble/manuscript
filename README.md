@@ -1,2 +1,2 @@
 # manuscript
-LaTeX template for manuscript
+A LaTeX template for manuscripts
